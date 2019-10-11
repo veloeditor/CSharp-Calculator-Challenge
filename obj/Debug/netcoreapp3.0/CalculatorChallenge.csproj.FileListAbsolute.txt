@@ -1,0 +1,11 @@
+/Users/i9_editor/workspace/csharp/exercises/CalculatorChallenge/bin/Debug/netcoreapp3.0/CalculatorChallenge
+/Users/i9_editor/workspace/csharp/exercises/CalculatorChallenge/bin/Debug/netcoreapp3.0/CalculatorChallenge.deps.json
+/Users/i9_editor/workspace/csharp/exercises/CalculatorChallenge/bin/Debug/netcoreapp3.0/CalculatorChallenge.runtimeconfig.json
+/Users/i9_editor/workspace/csharp/exercises/CalculatorChallenge/bin/Debug/netcoreapp3.0/CalculatorChallenge.runtimeconfig.dev.json
+/Users/i9_editor/workspace/csharp/exercises/CalculatorChallenge/bin/Debug/netcoreapp3.0/CalculatorChallenge.dll
+/Users/i9_editor/workspace/csharp/exercises/CalculatorChallenge/bin/Debug/netcoreapp3.0/CalculatorChallenge.pdb
+/Users/i9_editor/workspace/csharp/exercises/CalculatorChallenge/obj/Debug/netcoreapp3.0/CalculatorChallenge.csprojAssemblyReference.cache
+/Users/i9_editor/workspace/csharp/exercises/CalculatorChallenge/obj/Debug/netcoreapp3.0/CalculatorChallenge.AssemblyInfoInputs.cache
+/Users/i9_editor/workspace/csharp/exercises/CalculatorChallenge/obj/Debug/netcoreapp3.0/CalculatorChallenge.AssemblyInfo.cs
+/Users/i9_editor/workspace/csharp/exercises/CalculatorChallenge/obj/Debug/netcoreapp3.0/CalculatorChallenge.dll
+/Users/i9_editor/workspace/csharp/exercises/CalculatorChallenge/obj/Debug/netcoreapp3.0/CalculatorChallenge.pdb
